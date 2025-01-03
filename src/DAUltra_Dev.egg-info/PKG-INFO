@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: DAUltra-Dev
+Version: 1.0.0
+Summary: A package to calculate dimensions of objects in an image using OpenCV.
+Home-page: https://github.com/ojasdkg/DAUltra-Dev
+Author: Ojas Varshney
+Author-email: ojas@dkgrouplabs.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+
+# Dimension Analysis
+
+A Python package for calculating dimensions of objects in an image using OpenCV.
+
+## Installation
+
+```bash
+pip install git+https://github.com/ojasdkg/DAUltra-Dev.git
