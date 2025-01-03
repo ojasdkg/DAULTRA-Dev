@@ -1,4 +1,4 @@
-# My Package
+# Dimension Analysis
 
 A Python package for calculating dimensions of objects in an image using OpenCV.
 
